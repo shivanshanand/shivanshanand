@@ -1,6 +1,6 @@
 ```yaml
 name: Shivansh Anand
-current_role: MERN Intern @ IPage UMS Pvt Ltd
+current_role: Quant devloper Intern @ Jarnox
 education: Engineering Student
 
 stack:
