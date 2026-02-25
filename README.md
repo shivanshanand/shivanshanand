@@ -1,6 +1,6 @@
 ```yaml
 name: Shivansh Anand
-current_role: Quant devloper Intern @ Jarnox
+current_role: Quant Developer Intern @ Jarnox
 education: Engineering Student
 
 stack:
