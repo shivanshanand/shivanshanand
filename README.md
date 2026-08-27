@@ -1,6 +1,6 @@
 ```yaml
 name: Shivansh Anand
-current_role: Full Stack Mern Intern @ Modelsuite.ai
+current_role: Mern Intern @ YUGA AI
 education: Engineering Student
 
 stack:
